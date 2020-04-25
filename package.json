@@ -1,0 +1,29 @@
+{
+  "name": "devtwiliohackathon",
+  "version": "1.0.0",
+  "description": "A Dev and Twilio hackathon application to get tweet about particular hash in twitter directly on your phone",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JalpeshVadgama/DevTWilioHackathon.git"
+  },
+  "keywords": [
+    "Twilio",
+    "Hackathon",
+    "Dev",
+    "Whatsapp"
+  ],
+  "author": "Jalpesh Vadgama",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JalpeshVadgama/DevTWilioHackathon/issues"
+  },
+  "homepage": "https://github.com/JalpeshVadgama/DevTWilioHackathon#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
