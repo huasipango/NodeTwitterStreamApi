@@ -23,7 +23,9 @@
   },
   "homepage": "https://github.com/JalpeshVadgama/DevTWilioHackathon#readme",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "epxress": "0.0.1-security",
     "express": "^4.17.1",
-    "socket.io": "^2.3.0"
+    "twit": "^2.2.11"
   }
 }
