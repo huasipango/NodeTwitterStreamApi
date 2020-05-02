@@ -11,10 +11,10 @@
         "url": "git+https://github.com/JalpeshVadgama/NodeTwitterStreamApi.git"
     },
     "keywords": [
-        "Twilio",
-        "Hackathon",
-        "Dev",
-        "Whatsapp"
+        "Twitter",
+        "Node.js",
+        "Twitter Streaming API",
+        "TWitter real time data"
     ],
     "author": "Jalpesh Vadgama",
     "license": "ISC",
