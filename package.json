@@ -26,6 +26,7 @@
         "dotenv": "^8.2.0",
         "epxress": "0.0.1-security",
         "express": "^4.17.1",
+        "sqlite3": "^5.0.0",
         "twit": "^2.2.11"
     }
 }
